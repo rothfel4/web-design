@@ -1,0 +1,23 @@
+body {
+  background: #435a6b;
+  font-family: 'Arial';
+  color: #fff;
+}
+
+h1 {
+  margin: 15px 25px;
+  font-size: 30px;
+}
+
+.assignments a {
+  display: inline-block;
+  margin: 8px 0;
+  color: #fff;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.assignments a:hover {
+  text-decoration: underline;
+  color: #ccc;
+}
